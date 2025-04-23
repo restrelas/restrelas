@@ -19,15 +19,4 @@ Bsc in Computer Science from [UFCG (Universidade Federal de Campina Grande)](htt
   ![Javascript: badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
   ![Typescript: badge](https://img.shields.io/badge/TypeScript-blue.svg?logo=typescript&logoColor=white)
 
-## 📊 Github stats
 
-![Languages: Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=restrelas&hide=sql&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact)
-
-
-<!-- ## 📊 Github stats
-
-<div>
-  <a href="https://github.com/restrelas">
-  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=restrelas&show_icons=true&theme=dracula&count_private=true&include_all_commits=false">
-  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=restrelas&hide=sql&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
-</div> -->
